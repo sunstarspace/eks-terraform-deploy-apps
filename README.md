@@ -84,6 +84,13 @@ aws s3api put-bucket-encryption --bucket eks-sunstar-apps-tfstate --server-side-
 
 <br />
 
+###### **NOTICE or ATTRIBUTIONS**
+Portions of this project are based on code from retail-store-sample-app by Amazon.com (https://github.com/aws-containers/retail-store-sample-app), used under the MIT License.
+
+Portions of this project are based on code from devops-recipe-app-ap by London App Developer Ltd (https://github.com/LondonAppDeveloper/devops-recipe-app-api), used under the MIT License.
+
+<br />
+
 ###### **DISCLAIMER**
 Please consult the official documentation before using.
 NOBODY BUT YOU IS RESPONSIBLE FOR ANY USE OR DAMAGE THIS COMMANDS MAY CAUSE.

@@ -1,5 +1,9 @@
 Copyright (c) Svetoslav Borisov. All Rights Reserved.
 
+This project uses code from "retail-store-sample-app" (https://github.com/aws-containers/retail-store-sample-app), licensed under the MIT License - Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+This project uses code from "devops-recipe-app-api" (https://github.com/LondonAppDeveloper/devops-recipe-app-api), licensed under the MIT License - Copyright (c) 2023 London App Developer Ltd.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy of this
 software and associated documentation files (the "Software"), to deal in the Software
 without restriction, including without limitation the rights to use, copy, modify,
